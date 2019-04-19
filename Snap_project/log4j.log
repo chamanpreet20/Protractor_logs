@@ -1,0 +1,11 @@
+[2019-04-02T15:11:57.215] [DEBUG] logfile - Some debug messages
+[2019-04-02T15:14:03.694] [DEBUG] logfile - Some debug messages
+[2019-04-02T15:15:06.100] [DEBUG] logfile - Some debug messages
+[2019-04-02T15:15:07.228] [INFO] logfile - opened the url
+[2019-04-02T15:17:29.288] [DEBUG] logfile - Some debug messages
+[2019-04-02T15:17:30.416] [INFO] logfile - opened the url
+[2019-04-02T15:29:35.850] [DEBUG] logfile - Some debug messages
+[2019-04-02T15:29:36.988] [INFO] logfile - opened the url
+[2019-04-02T15:29:40.005] [INFO] logfile - Enter username
+[2019-04-02T15:29:40.005] [WARN] logfile - Enter password
+[2019-04-02T15:29:40.005] [INFO] logfile - logged in to SNAP
